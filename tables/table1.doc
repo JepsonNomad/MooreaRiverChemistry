@@ -1,0 +1,156 @@
+<table style="border-collapse:collapse; border:none;">
+<tr>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; text-align:left; ">Watershed</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; ">Shore</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; ">Watershed area (km2)</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; ">Stream order</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; ">Stream length (km)</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; ">Population</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; col7">Cleared (%)</th>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Atiha</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">W</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">4.30</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">3</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">5.00</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">239</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">3.40</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Ha'apiti</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">W</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">3.30</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">3</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">3.10</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">372</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">0.80</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Haumi</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">E</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2.90</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">3.40</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">422</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">2.00</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Ma'atea</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">E</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">4.80</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">3</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">4.90</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">518</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">3.50</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Maharepa</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">N</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">3.00</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">3.50</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">698</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">8.80</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Opunohu</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">N</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">15.20</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">4</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">5.40</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">159</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">9.50</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Opunohu 1</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">N</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">9.20</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">4</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">5.20</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">149</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">10.40</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Opunohu 2</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">N</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">5.60</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">3</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">4.20</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">10</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">5.70</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Paopao</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">N</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">8.80</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">4</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">4.50</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">1281</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">15.60</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Paopao 1</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">N</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2.50</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">4</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">3.90</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">280</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">3.50</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Paopao 2</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">N</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">5.00</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">3</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">3.30</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">721</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">22.70</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Paopao 3</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">N</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.40</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">1.90</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">280</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">9.20</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Papetoai</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">N</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">5.00</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">3</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">4.50</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">798</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">5.30</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Pihaena</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">N</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">1.60</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2.80</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">44</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">7.40</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Teavaro</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">E</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">1.30</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">2.00</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">367</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">1.30</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; border-bottom: double; ">Vaianae</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; ">W</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; ">4.70</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; ">3</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; ">4.10</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; ">233</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; col7">3.00</td>
+</tr>
+</table>
+

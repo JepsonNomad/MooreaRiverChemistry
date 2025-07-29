@@ -1,0 +1,25 @@
+Response,Predictor,Df,Sum Sq,Mean Sq,F value,Pr(>F),pStar
+DIN,Season,1,0.01,0.01,4.13,0.044,*
+DIN,Site,13,0.81,0.06,18.77,0,***
+DIN,Season:Site,13,0.11,0.01,2.57,0.003,**
+DIN,Residuals,156,0.52,0,NA,NA,NA
+NO2,Season,1,0,0,1.77,0.185,
+NO2,Site,13,0.02,0,16.57,0,***
+NO2,Season:Site,13,0,0,2.76,0.001,***
+NO2,Residuals,156,0.01,0,NA,NA,NA
+NO3,Season,1,0.13,0.13,5.21,0.024,*
+NO3,Site,13,7.2,0.55,21.84,0,***
+NO3,Season:Site,13,1,0.08,3.04,0.001,***
+NO3,Residuals,156,3.96,0.03,NA,NA,NA
+NH4,Season,1,0,0,0,0.961,
+NH4,Site,13,0.01,0,5.81,0,***
+NH4,Season:Site,13,0,0,1.15,0.318,
+NH4,Residuals,163,0.02,0,NA,NA,NA
+PO4,Season,1,0.02,0.02,5.05,0.026,*
+PO4,Site,13,0.28,0.02,6.25,0,***
+PO4,Season:Site,13,0.08,0.01,1.77,0.053,.
+PO4,Residuals,156,0.54,0,NA,NA,NA
+TSS,Season,1,12.53,12.53,10.49,0.002,**
+TSS,Site,11,19.75,1.8,1.5,0.144,
+TSS,Season:Site,11,17.18,1.56,1.31,0.233,
+TSS,Residuals,93,111.1,1.19,NA,NA,NA

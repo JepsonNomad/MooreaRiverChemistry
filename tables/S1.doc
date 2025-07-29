@@ -1,0 +1,243 @@
+<table style="border-collapse:collapse; border:none;">
+<tr>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; text-align:left; ">Site</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; ">mean_DIN_mgL</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; ">range_DIN_mgL</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; ">sd_DIN_mgL</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; ">mean_PO4_mgL</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; ">range_PO4_mgL</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; col7">sd_PO4_mgL</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; col8">mean_N.P</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; col9">range_N.P</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; 0">sd_N.P</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; 1">mean_TSS_mgL</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; 2">range_TSS_mgL</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; 3">sd_TSS_mgL</th>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Atiha</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.06</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.02-0.09</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.02</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.15</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.08-0.27</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">0.05</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col8">2.72</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col9">0.93-4.51</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 0">1.11</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 1">5.39</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 2">0-38.12</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 3">10.40</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Ha'apiti</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.08</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.02-0.13</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.03</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.11</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.07-0.24</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">0.05</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col8">5.40</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col9">1.91-8.22</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 0">2.16</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 1">14.23</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 2">0-81.25</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 3">24.01</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Haumi</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.18</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.08-0.28</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.08</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.15</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.09-0.3</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">0.06</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col8">8.48</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col9">4.49-13.17</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 0">3.55</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 1">12.26</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 2">1.25-81.88</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 3">26.20</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Ma'atea</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.07</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.01-0.12</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.04</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.11</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.08-0.15</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">0.03</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col8">4.20</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col9">0.68-7.53</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 0">2.13</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 1">2.53</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 2">0.5-4</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 3">1.31</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Maharepa</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.07</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.01-0.38</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.09</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.21</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.15-0.32</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">0.05</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col8">2.29</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col9">0.51-11.38</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 0">2.65</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 1">7.71</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 2">0-20.62</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 3">7.47</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Opunohu 1</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.06</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.02-0.12</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.02</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.12</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.05-0.48</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">0.11</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col8">5.03</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col9">0.29-10.27</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 0">2.60</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 1">11.09</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 2">1.25-72.5</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 3">21.65</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Opunohu 2</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.25</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.12-0.51</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.12</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.11</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.06-0.28</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">0.06</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col8">19.74</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col9">2.79-48.58</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 0">13.75</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 1">7.54</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 2">0.62-40</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 3">11.67</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Paopao</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.26</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.09-0.53</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.10</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.11</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.03-0.26</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">0.06</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col8">18.70</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col9">6.59-39.36</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 0">8.99</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 1">NA</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 2">NA</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 3">NA</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Paopao 1</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.23</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.14-0.43</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.09</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.09</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.02-0.19</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">0.06</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col8">24.17</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col9">8.15-54.7</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 0">15.80</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 1">136.95</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 2">1-901.67</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 3">337.35</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Paopao 2</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.17</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.14-0.24</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.03</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.17</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.05-0.45</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">0.14</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col8">10.64</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col9">2.27-20.98</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 0">7.25</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 1">117.19</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 2">1.5-783.33</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 3">293.78</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Paopao 3</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.15</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.07-0.32</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.09</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.26</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.08-0.72</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">0.18</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col8">4.68</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col9">1.47-6.79</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 0">2.06</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 1">NA</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 2">NA</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 3">NA</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Papetoai</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.14</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.02-0.27</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.07</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.22</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.15-0.28</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">0.05</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col8">4.35</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col9">0.79-9.13</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 0">2.57</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 1">45.86</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 2">2-293.75</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 3">100.69</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Pihaena</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.08</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0-0.35</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.09</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.29</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.12-0.69</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">0.16</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col8">1.92</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col9">0.04-5.14</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 0">1.55</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 1">29.58</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 2">2.5-126.25</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 3">41.00</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Teavaro</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.16</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.01-0.33</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.11</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.13</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; ">0.02-0.23</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col7">0.05</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col8">8.19</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; col9">2.77-17.27</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 0">4.73</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 1">5.55</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 2">1-12.5</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; 3">3.63</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; border-bottom: double; ">Vaianae</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; ">0.06</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; ">0.02-0.09</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; ">0.02</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; ">0.10</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; ">0.05-0.27</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; col7">0.05</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; col8">4.47</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; col9">1.41-6.29</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; 0">1.44</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; 1">8.24</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; 2">1-58.75</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; 3">16.04</td>
+</tr>
+</table>
+

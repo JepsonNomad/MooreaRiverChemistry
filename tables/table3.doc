@@ -1,0 +1,108 @@
+<table style="border-collapse:collapse; border:none;">
+<tr>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; text-align:left; ">Watershed</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; ">> 5 mg/L TSS</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; ">> 50 mg/L TSS</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; ">> 0.1 mg/L DIN</th>
+<th style="border-top: double; text-align:center; font-style:italic; font-weight:normal; padding:0.2cm; border-bottom:1px solid black; ">> 0.18 mg/L DIN</th>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Atiha</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">8</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; modelcolumn0 ">0</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">0</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; modelcolumn8 ">0</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Ha'apiti</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">50</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; modelcolumn0 ">8</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">24</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; modelcolumn8 ">0</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Haumi</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">22</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; modelcolumn0 ">11</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">78</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; modelcolumn8 ">44</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Ma'atea</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">0</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; modelcolumn0 ">0</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">11</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; modelcolumn8 ">0</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Maharepa</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">42</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; modelcolumn0 ">0</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">12</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; modelcolumn8 ">6</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Opunohu 1</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">50</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; modelcolumn0 ">10</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">7</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; modelcolumn8 ">0</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Opunohu 2</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">30</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; modelcolumn0 ">0</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">100</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; modelcolumn8 ">77</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Paopao 1</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">43</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; modelcolumn0 ">14</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">100</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; modelcolumn8 ">71</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Paopao 2</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">43</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; modelcolumn0 ">14</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">100</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; modelcolumn8 ">14</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Papetoai</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">62</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; modelcolumn0 ">12</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">88</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; modelcolumn8 ">25</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Pihaena</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">78</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; modelcolumn0 ">22</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">23</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; modelcolumn8 ">13</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Teavaro</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">50</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; modelcolumn0 ">0</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">73</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; modelcolumn8 ">27</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; ">Vaianae</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">33</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; modelcolumn0 ">8</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center;  ">0</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; modelcolumn8 ">0</td>
+</tr>
+<tr>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:left; border-bottom: double; ">Overall</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double;  ">39</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; modelcolumn0 ">8</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double;  ">47</td>
+<td style=" padding:0.2cm; text-align:left; vertical-align:top; text-align:center; border-bottom: double; modelcolumn8 ">21</td>
+</tr>
+</table>
+
